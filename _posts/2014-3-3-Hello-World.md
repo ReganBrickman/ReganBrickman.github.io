@@ -4,6 +4,8 @@ title: Week One
 ---
 
 
+
+
 ## What did I do this past week? ##
 
 
